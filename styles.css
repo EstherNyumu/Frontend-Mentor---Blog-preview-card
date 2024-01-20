@@ -55,6 +55,7 @@ h2 {
     margin-right: auto;
     width: 90%;
     border-radius: 10px;
+    margin-top: 15px;
 }
 
 .content {
@@ -63,6 +64,6 @@ h2 {
 }
 
 .attribution {
-    position: absolute;
+    position: fixed;
     bottom: 0%;
 }
