@@ -47,6 +47,7 @@ h2 {
     box-shadow: 5px 6px 1px;
     border-radius: 10px;
     margin: auto;
+    max-width: 350px;
 }
 
 #illustration-article {
@@ -56,6 +57,7 @@ h2 {
     width: 90%;
     border-radius: 10px;
     margin-top: 15px;
+    
 }
 
 .content {
